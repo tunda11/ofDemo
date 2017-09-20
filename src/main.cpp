@@ -3,6 +3,7 @@
 
 //========================================================================
 int main( ){
+	cout << "Hello from main" << endl;
 	ofSetupOpenGL(1024,768,OF_WINDOW);			// <-------- setup the GL context
 
 	// this kicks off the running of my app
